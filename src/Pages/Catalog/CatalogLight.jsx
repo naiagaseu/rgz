@@ -1,7 +1,6 @@
 import React, {useState, useEffect, useContext} from 'react';
 import CardItem from './CardItem';
 import {Link} from "react-router-dom";
-import SortAndSearch from '../../components/SortOther';
 import { CustomContext } from '../../Context';
 import { groups } from '../../Groups';
 
