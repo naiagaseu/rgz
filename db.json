@@ -236,28 +236,7 @@
             "posts": [],
             "about": "я люблю тратить деньги на картон ",
             "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
-            "favourite": [
-              {
-                "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
-                "group": "iz*one",
-                "name": "ффф",
-                "description": "ффф",
-                "price": "111",
-                "creator": {
-                  "email": "qazwsx@mail.com",
-                  "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
-                  "name": "kkk",
-                  "posts": [],
-                  "about": "обо мне...",
-                  "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
-                  "favourite": [],
-                  "id": 1
-                },
-                "category": "карта",
-                "choice": "регулярка",
-                "id": 1
-              }
-            ],
+            "favourite": [],
             "id": 2
           }
         }
@@ -341,28 +320,7 @@
             "posts": [],
             "about": "я люблю тратить деньги на картон ",
             "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
-            "favourite": [
-              {
-                "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
-                "group": "iz*one",
-                "name": "ффф",
-                "description": "ффф",
-                "price": "111",
-                "creator": {
-                  "email": "qazwsx@mail.com",
-                  "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
-                  "name": "kkk",
-                  "posts": [],
-                  "about": "обо мне...",
-                  "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
-                  "favourite": [],
-                  "id": 1
-                },
-                "category": "карта",
-                "choice": "регулярка",
-                "id": 1
-              }
-            ],
+            "favourite": [],
             "id": 2
           },
           "feedback": {}
@@ -407,28 +365,7 @@
               "posts": [],
               "about": "я люблю тратить деньги на картон ",
               "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
-              "favourite": [
-                {
-                  "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
-                  "group": "iz*one",
-                  "name": "ффф",
-                  "description": "ффф",
-                  "price": "111",
-                  "creator": {
-                    "email": "qazwsx@mail.com",
-                    "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
-                    "name": "kkk",
-                    "posts": [],
-                    "about": "обо мне...",
-                    "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
-                    "favourite": [],
-                    "id": 1
-                  },
-                  "category": "карта",
-                  "choice": "регулярка",
-                  "id": 1
-                }
-              ],
+              "favourite": [],
               "id": 2
             },
             "feedback": {}
