@@ -1,5 +1,4 @@
 import React, {useContext} from 'react';
-import {Link} from "react-router-dom";
 import trashbask from '../../../img/trashback.png'
 import { CustomContext } from '../../../Context';
 import {useForm} from "react-hook-form";
@@ -77,24 +76,12 @@ function Profile()
                         <input className="inputProf" {...register('email')} type='email' defaultValue={user.email}/>
                         <p className='profileText'>Соцсети для связи</p>
                         <input className="inputProf" {...register('networks')} type='text' defaultValue={user.networks}/>
-                        {/* <p className='profileText'>О себе</p>
-                        <textarea className="profileDecr" {...register('about')} type="text" defaultValue={user.about}/>
-                        <button className="saveChanges" type="submit">Сохранить</button>
-                        <button className="delAcc" type="button">Удалить профиль</button> */}
                 </div>
                 <div className="leftInfoChange">
                     <p className='profileText'>О себе</p>
                         <textarea className="profileDecr" {...register('about')} type="text" defaultValue={user.about}/>
                         <button className="saveChanges" type="submit">Сохранить</button>
                         <button className="delAcc" type="button" onClick={() => delAcc()}>Удалить профиль</button>
-                    {/* <p className='profileText'>Смена пароля</p>
-                    <p className='profileText__Small'>Старый пароль</p>
-                    <input className="inputProf" type="text" />
-                    <p className='profileText__Small'>Новый пароль</p>
-                    <input className="inputProf" type="text" />
-                    <p className='profileText__Small'>Повторите пароль</p>
-                    <input className="inputProf" type="text" />
-                    <button className="savePassw" type="button">Изменить пароль</button> */}
                 </div>
             </div>
 
