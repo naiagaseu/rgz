@@ -1,0 +1,121 @@
+.anotherPosts
+{
+    display: flex;
+    width: 1180px;
+    border-top: 0.5px solid #000;
+    margin-bottom: 30px;
+}
+
+.anotherList
+{
+    display: flex;
+    column-gap: 12px;
+    margin-top: 2%;
+    margin-left: 1%;
+    flex-wrap: wrap;
+}
+
+.onAnotherAccCreatorIfo{
+    width: 96%;
+    text-align: left;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+.anotherAccCont{
+    display: flex;
+    flex-direction: column;
+    margin-left: 20%;
+    margin-top: 5%;
+    flex-direction: column;
+}
+
+.anAcParent
+{
+    display: flex;
+    text-align: center;
+    width: 758px;
+
+}
+
+.anotherText
+{
+    padding-left: 30px;
+}
+
+.userPic{
+    border-radius: 50%;
+    height: 200px;
+    width: auto;
+}
+
+.columnCont
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.anotherAccName
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 34px;
+    line-height: 26px;
+    margin-top: 5px;
+    color: #654796;
+}
+
+.anotherAccDescr
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 26px;
+    margin-top: 5px;
+    color: #000;
+}
+
+.anotherAccNet
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+    margin-top: 5px;
+    color: #717171;
+}
+
+.sendMessage
+{
+    width: 280px;
+    height: 35px;
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 16px;
+    margin-top: 5%;
+}
+
+.sendMessage:hover
+{
+    background-color: #aa9cc1;
+}
+
+.textAboveList
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    margin-bottom: 10px;
+}

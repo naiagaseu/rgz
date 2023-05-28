@@ -1,0 +1,316 @@
+.product
+{
+    display: flex;
+    margin-left: 8%;
+    margin-top: 3%;
+    width: 1200px;
+    flex-direction: column;
+
+}
+
+.productLink
+{
+    text-align: left;
+    margin-left: 2%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: -2%;
+    margin-bottom: 1%;
+}
+
+.product-container
+{
+    display: flex;
+    padding: 20px;
+    text-align: center;
+}
+
+.product-right
+{
+    display: flex;
+    margin-left:1%;
+    flex-direction: row;
+    width: 800px;
+}
+
+.product-left
+{
+    width: 500px;
+    height: 400px;
+}
+
+.productPic
+{
+    height: 370px;
+    width: auto;
+}
+
+.r-left
+{
+    width: 400px;
+    text-align: left;
+
+    padding-left: 10px;
+}
+
+.r-right{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 20px;
+    text-align: right;
+}
+
+.product-right-name
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 550;
+    font-size: 40px;
+    text-align: left;
+    color: #5f428f;
+    margin-bottom: 1%;
+    width: 400px;
+}
+
+.product-right-descr
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 23px;
+    text-align: left;
+    margin-bottom: 10%;
+}
+
+.product-right-price
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 570;
+    font-size: 38px;
+    text-align: left;
+    margin-left: 1%;
+    color: #5f428f;
+    margin-bottom: 2%;
+}
+
+.productMsg, .productSave
+{
+    height: 40px;
+    width: 400px;
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.productMsg:hover, .productSave:hover 
+{
+    background-color: #aa9cc1;
+    border: none;
+}
+
+.product-btn
+{
+    flex-direction: column;
+    margin-top: 4%;
+}
+
+.profPic
+{
+    height: 70px;
+    width: auto;
+    border-radius: 50%;
+
+}
+
+.usrInf
+{
+    width: 500px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    margin-left: 10px;
+    align-items: center;
+}
+
+.usrName
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.prodUserDescr{
+    font-family: 'Montserrat';
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 5%;
+    width: 200px;
+    font-size: 20px;
+
+}
+
+.usrName
+{
+    color: #664e8e;
+    font-weight: 570;
+}
+
+.product-right-choice
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: left;
+    color: #606060;
+}
+
+.commentArea
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    margin-top: 40px;
+    height: 50px;
+    width: 390px;
+    resize: none;
+    margin-left: 5px;
+}
+
+.commentPic
+{
+    height: 40px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.commentBLock
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.commentBLock_active
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 10px;
+    background-color: #d9d3e5;
+}
+
+.commentList
+{
+    padding-top: 20px;
+    padding-left: 50px;
+    border-top: 0.5 solid #000;
+    overflow-y:scroll;
+    height: 200px;
+    width: 350px;
+}
+
+.commentCreator
+{
+    padding-left: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    text-align: left;
+    color: #664e8e;
+}
+
+.commentText
+{
+    font-size: 18px;
+    color: #18151d;
+    font-weight: 400;
+    width: 180px;
+}
+
+.delComment
+{
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #fff;
+    font-size: 14px;
+}
+
+.delComment:hover{
+    background-color: #fff;
+    color:#433062;
+    transform: scale(1.1);
+    font-weight: 500;
+    cursor: pointer;
+}
+
+li {
+    list-style-type: none; 
+}
+
+.buttonsComment
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.feedBack
+{
+    margin-top: 5px;
+    font-size: 16px;
+    background-color: #efedf2;
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+}
+
+.fullComment
+{
+    padding: 10px 0 10px 0;
+}
+
+.answerTo
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.textToAnswer
+{
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 400;
+    padding-right: 10px;
+}
+
+.cancelAnswer
+{
+    background-color: #fff;
+    border: none;
+    color:#433062;
+    font-weight: 700;
+}
+
+.usrNet
+{
+    font-size: 16px;
+    width: 300px;
+    overflow: hidden;
+}

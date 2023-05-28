@@ -1,0 +1,12 @@
+.myPosts
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.listPosts{
+    display: flex;
+    column-gap: 12px;
+    flex-wrap: wrap;
+    width: 882px;
+}

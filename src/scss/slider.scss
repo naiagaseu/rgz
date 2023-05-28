@@ -1,0 +1,120 @@
+.slider
+{
+    align-items: center;
+    width: 45%;
+    height: 351px;
+    width: 982px;
+    border: 1px solid rgba(0, 0, 0, 0.6);
+    display: flex;
+    padding-bottom: 10px;
+    margin-left: 16%;
+    margin-top: 2%;
+}
+
+.news
+{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+  margin-left: -80px;
+  color: #000000;
+}
+
+.pic
+{
+  width: 470px;
+  height: auto;
+
+  margin-left: 3%
+}
+
+.text
+{
+  margin-top: 9%;
+  margin-left: 10px;
+  text-align: left;
+}
+
+.nameMV
+{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 26px;
+  line-height: 29px;
+  margin-left: 40px;
+  margin-top: -25%;
+
+  color: #000000;
+}
+
+.colorName
+{
+  color: #8261B8;
+}
+
+.lyrics, .lyrics2
+{
+  margin-top:5%;
+  text-align: left;
+  margin-left: 40px;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+
+  color: #000000;
+}
+
+.lyrics2
+{
+  margin-top:2%;
+}
+
+.goTo
+{
+  margin-top:20%;
+  margin-left:10%;
+  width: 350px;
+  height: 45px;
+
+  background: #C2AFE0;
+  border-radius: 5px;
+}
+
+.goTo:hover
+{
+  background: #9c8ab5;
+}
+
+.goToText
+{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 65px;
+  text-align: center;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 20px;
+
+  color: #000000;
+}
+
+.newsBlock
+{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 32px;
+  line-height: 39px;
+  text-align: center;
+  margin-top: 1%;
+  margin-top: 2%;
+
+  color: #000000;
+}

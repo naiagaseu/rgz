@@ -1,0 +1,50 @@
+.postPic
+{
+    width: 250px;
+    height: auto;
+    margin-right: 15px;;
+}
+
+.photoChange
+{
+    display: flex;
+    flex-direction: column;
+    align-items: left;
+}
+
+.changeProduct
+{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-left: 15%;
+    margin-top: 3%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.photoDiv
+{
+    padding-right: 5%;
+}
+
+.chhosePic
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+}
+
+.addRightPost{
+    text-align: left;
+    margin-left: 5%;
+}
+
+.warnP
+{
+    padding-bottom: 10px;
+    font-weight: 420;
+}

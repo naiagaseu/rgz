@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+
+.main
+{
+  display: flex;
+  flex-direction: column;
+}
+
+.top
+{
+  display: inline;
+  width: 100%;
+}
+
+h3
+{
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 48px;
+  line-height: 59px;
+
+  color: #000000;
+}
+
+.U
+{
+  color: #8261B8;
+}
+
+.drop
+{
+  margin-top: 0%;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #000000;
+}
+
+.logo
+{
+  float:left;
+  margin-left: 9%;
+  margin-top: 2%;
+  text-decoration: none;
+}
+
+.userInfo
+{
+  display: flex;
+  flex-direction: row;
+  float: right;
+  margin-top: 80px;
+  margin-right: 9%;
+  align-items: center;
+}
+
+.userName
+{
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 24px;
+  margin-left: 35px;
+
+  color: #000000;
+
+}
+
+.userName:hover
+{
+  color: #654796;
+  font-weight: 600;
+}
+
+.iconSmall
+{
+  position: absolute;
+  height: 60px;
+  width: auto;
+  border-radius: 50%;
+  margin-left: -3%;
+}
+
+.link
+{
+    text-decoration: none;
+}
+
+.userExit
+{
+  border: none;
+  background-color: #fff;
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 300;
+  font-size: 18px;
+  line-height: 24px;
+  margin-left: 5px;
+
+  color: #000000;
+  cursor: pointer;
+}
+
+
+
+.btns
+{
+  margin-top:40px;
+}
+
+.colorBtn
+{
+  width: 243px;
+  height: 35px;
+  border: none;
+  background-color: #A088C8;
+
+  font-family: 'Montserrat';
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19px;
+  line-height: 24px;
+
+  color: #000000;
+
+}
+
+button:hover
+{
+  color: #ffffff;
+  background-color: #654796;
+}
+
+.block
+{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

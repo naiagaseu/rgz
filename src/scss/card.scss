@@ -1,0 +1,117 @@
+.photo{
+    margin-top: 5%;
+    height: 185px;
+    width: auto;
+}
+
+.card_wrap
+{
+    border: 0.3px solid rgba(49, 49, 49, 0.6);
+    height: 350px;
+    width: 218px;
+    padding: 5px;
+    background-color: #fff;
+}
+
+.card_wrap:hover
+{
+    transform: scale(1.01);
+    box-shadow: 0 0 7px #D6CCE5;
+}
+
+.cardName
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    overflow: hidden;
+    width: 146px;
+    height: 46.5px;
+    margin-top: 5px;
+    color: #000;
+}
+
+.cardPrice
+{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 26px;
+
+    color: #654796;
+
+    margin-top: 3%;
+}
+
+.card_text
+{
+    width: 190px;
+    height: 82px;
+    text-align: left;
+    margin-left: 9%;
+}
+
+.action
+{
+    text-align: right;
+    margin-right: 5%;
+    cursor: pointer;
+    float: right;
+}
+
+.msg{
+    padding-right: 3px;
+}
+
+.msg:hover, .save:hover
+{
+    transform: scale(1.2);
+}
+
+
+.creatorPic
+{
+    height: 40px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.cardAction
+{
+    display: inline;
+    align-items: center;
+}
+
+.creatorBlock
+{
+    float: left;
+    width: 100px;
+    margin-left: 20px;
+    overflow: hidden;
+    text-align: left;
+    align-items: center;
+}
+
+.creatorName
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 26px;
+    margin-top: 5px;
+    color: #654796;
+}
+
+.cardOwn_wrap
+{
+    border: 0.3px solid rgba(49, 49, 49, 0.6);
+    height: 350px;
+    width: 198px;
+    padding: 5px;
+    background-color: #fff;
+}

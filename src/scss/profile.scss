@@ -1,0 +1,159 @@
+.profile
+{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    margin-left: 10%;
+    margin-top: -4%;
+}
+
+.rightInfoChange, .leftInfoChange
+{
+    width: 400px;
+}
+
+.profileText
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 405;
+    font-size: 22px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+
+    &__Small
+    {
+        font-size: 18px;
+        font-family: 'Montserrat';
+        margin-bottom: 3px;
+        margin-top: 15px;
+    }
+}
+
+.profileTextTop
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 450;
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.profilePic
+{
+    width: 80px;
+    height: auto;
+    border-radius: 50%;
+    margin-right: 15px;;
+}
+
+.cont
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.profileDecr
+{
+    resize: none;
+    width: 345px;
+    height: 200px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+}
+
+.saveChanges
+{
+    width: 352px;
+    height: 50px;
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 16px;
+    margin-left: -1px;
+}
+
+.saveChanges:hover{
+    background-color: #aa9cc1;
+    border: none;
+}
+
+.inputProf
+{
+    width: 250px;
+    height: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    margin-bottom: 15x;
+}
+
+.profilePicChange
+{
+    display: flex;
+    align-items: center;
+}
+
+.setPic
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 15px;
+    border: none;
+    height: 30px;
+    width: 90px;
+}
+
+.setPic.setPic:hover, .savePassw:hover, .delAcc:hover{
+    background-color: #aa9cc1;
+}
+
+.delAcc{
+    width: 352px;
+    height: 30px;
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 16px;
+    margin-left: -1px;
+    margin-bottom: 20px;
+}
+
+.leftInfoChange
+{
+    margin-left: 60px;
+}
+
+.savePassw
+{
+    width: 260px;
+    height: 30px;
+    border: none;
+    margin: 3px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    background-color:  #d9d3e5;
+    font-size: 16px;
+    margin-left: -1px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+}
+
+.trashPic
+{
+    width: 25px;
+    height: auto;
+    margin-left: 15px;
+}

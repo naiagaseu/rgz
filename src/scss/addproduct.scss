@@ -1,0 +1,148 @@
+.addproduct
+{
+    display: flex;
+    flex-direction: row;
+    margin-left: 25%;
+    margin-top: 3%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+}
+
+.addLeft
+{
+    text-align: left;
+}
+
+.appaddpic
+{
+    width: 250px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.chsCat
+{
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    border: none;
+    background: #dacfeb;
+}
+
+.chsCat:hover{
+    background: #9281ae;
+}
+
+.addRight
+{
+    text-align: left;
+    margin-left: 10%;
+}
+
+.groupList
+{
+    width: 250px;
+    height: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+    margin-bottom: 3px;
+}
+
+.appaddname
+{
+    width: 350px;
+    height: 30px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+}
+
+.appadddescr
+{
+    resize: none;
+    width: 350px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 19px;
+}
+
+.appaddcost
+{
+    width: 350px;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    height: 30px;
+}
+
+.postprod
+{
+    height: 51px;
+    width: 355px;
+    background-color: #9079B5;
+    border: none;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 22px;
+    color: #fff;
+}
+
+.catList
+{
+    margin-bottom: 5px;
+}
+
+.chooseGroup
+{
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+.optionNull
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;
+}
+
+.groupMemb
+{
+    display: flex;
+    flex-direction: column;
+}
+
+.submit
+{
+    margin-top: 5px;
+    width: 250px;
+    height: 30px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    border: none;
+    background: #dacfeb;
+    margin-bottom: 20px;
+}
+
+.submit:hover{
+    background: #9281ae;
+}

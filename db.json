@@ -1,0 +1,502 @@
+{
+  "users": [
+    {
+      "email": "qazwsx@mail.com",
+      "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+      "name": "kkk",
+      "posts": [],
+      "about": "стэньте себентин для чистой кожи",
+      "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+      "favourite": [],
+      "id": 1,
+      "networks": "тг: @itsumonaku"
+    },
+    {
+      "email": "mail@mail.ru",
+      "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+      "name": "svtLOVER",
+      "posts": [],
+      "about": "я люблю тратить деньги на картон ",
+      "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+      "favourite": [],
+      "id": 2,
+      "networks": "тг: @pinker1c"
+    },
+    {
+      "email": "123aa@mail.com",
+      "password": "$2a$10$yOzuxvTmz0smXyzicgtiq.sKrGAGiVHrWt7x5JMyL28BOA286LGe6",
+      "name": "жена вонву",
+      "posts": [],
+      "about": "я люблю вону",
+      "photo": "https://i.pinimg.com/564x/11/69/4c/11694c4d3d3c5f31497c58247e8429a1.jpg",
+      "favourite": [],
+      "id": 3
+    },
+    {
+      "email": "example@mail.ru",
+      "password": "$2a$10$A6SpINdq4Oece/YPfrOHNOrdUwmcgz2aLKmDqo3qEEg53zx2Q4Cuy",
+      "name": "NEWname",
+      "posts": [],
+      "about": "айзуан реюнион когда?",
+      "photo": "https://i.pinimg.com/564x/f9/86/3d/f9863ddfa754317b2f93011a20fd026f.jpg",
+      "favourite": [],
+      "networks": "тг: @KEV1NCATBOY",
+      "id": 4
+    }
+  ],
+  "posts": [
+    {
+      "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
+      "group": "the boyz",
+      "name": "маверик айди",
+      "description": "из дф - небольшие царапки",
+      "price": "120",
+      "creator": {
+        "email": "qazwsx@mail.com",
+        "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+        "name": "kkk",
+        "posts": [],
+        "about": "стэньте себентин для чистой кожи",
+        "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+        "favourite": [],
+        "id": 1,
+        "networks": "тг: @itsumonaku"
+      },
+      "category": "карта",
+      "choice": "айди",
+      "id": 1,
+      "member": "хёнджэ",
+      "comment": []
+    },
+    {
+      "image": "https://s2.bukalapak.com/img/71023640852/large/data.jpeg.webp",
+      "group": "exo",
+      "name": "эрибонг 3 вер",
+      "description": "отрываю от сердца",
+      "price": "4000",
+      "creator": {
+        "email": "qazwsx@mail.com",
+        "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+        "name": "kkk",
+        "posts": [],
+        "about": "стэньте себентин для чистой кожи",
+        "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+        "favourite": [],
+        "id": 1,
+        "networks": "тг: @itsumonaku"
+      },
+      "category": "лайтстик",
+      "choice": "",
+      "id": 5,
+      "comment": []
+    },
+    {
+      "image": "https://static.insales-cdn.com/images/reviews/1/5845/1259221/IMG_5842.JPG",
+      "group": "the boyz",
+      "name": "маверик в полной комплектации",
+      "description": "отзыывы скину, дс + 300р",
+      "price": "1200",
+      "creator": {
+        "email": "qazwsx@mail.com",
+        "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+        "name": "kkk",
+        "posts": [],
+        "about": "стэньте себентин для чистой кожи",
+        "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+        "favourite": [],
+        "id": 1,
+        "networks": "тг: @itsumonaku"
+      },
+      "category": "альбом",
+      "choice": "регулярка",
+      "id": 6,
+      "comment": []
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCBBuvX0fc03_tRT_eSNx7fOR5H7KuosdYJYGOPrCs00CVRolbWM_E4IKhlj40J0vR6k8&usqp=CAU",
+      "group": "the boyz",
+      "name": "фб дримлайк",
+      "description": "есть небольшие дф, цена с дс по россии",
+      "price": "900",
+      "creator": {
+        "email": "mail@mail.ru",
+        "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+        "name": "svtLOVER",
+        "posts": [],
+        "about": "я люблю тратить деньги на картон ",
+        "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+        "favourite": [],
+        "id": 2,
+        "networks": "тг: @pinker1c"
+      },
+      "category": "альбом",
+      "choice": "регулярка",
+      "id": 7,
+      "comment": []
+    },
+    {
+      "image": "https://d9nvuahg4xykp.cloudfront.net/5760520477081104638/-6669439198754905512.jpg",
+      "group": "the boyz",
+      "name": "санён стилер мейкстар",
+      "description": "цена указана без доставки!",
+      "price": "250",
+      "creator": {
+        "email": "mail@mail.ru",
+        "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+        "name": "svtLOVER",
+        "posts": [],
+        "about": "я люблю тратить деньги на картон ",
+        "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+        "favourite": [],
+        "id": 2,
+        "networks": "тг: @pinker1c"
+      },
+      "category": "карта",
+      "choice": "ивент",
+      "member": "санён",
+      "id": 8,
+      "comment": [
+        {
+          "id": "bf076fdb-72d8-4921-811b-22a35dcbbddc",
+          "text": "sxx",
+          "creator": {
+            "email": "qazwsx@mail.com",
+            "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+            "name": "kkk",
+            "posts": [],
+            "about": "стэньте себентин для чистой кожи",
+            "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+            "favourite": [],
+            "id": 1
+          }
+        }
+      ]
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/C2YAAOSwysRjGZGx/s-l1600.jpg",
+      "name": "чанхи ломл киндом",
+      "description": "заберите малыша",
+      "price": "300",
+      "creator": {
+        "email": "123aa@mail.com",
+        "password": "$2a$10$yOzuxvTmz0smXyzicgtiq.sKrGAGiVHrWt7x5JMyL28BOA286LGe6",
+        "name": "жена вонву",
+        "posts": [],
+        "about": "я люблю вону",
+        "photo": "https://i.pinimg.com/564x/11/69/4c/11694c4d3d3c5f31497c58247e8429a1.jpg",
+        "favourite": [],
+        "id": 3
+      },
+      "category": "карта",
+      "choice": "мерч",
+      "id": 9,
+      "comment": []
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/ZhAAAOSwu5BjJd3g/s-l1600.jpg",
+      "group": "the boyz",
+      "member": "сону",
+      "name": "виспер сону",
+      "description": "отдам в добрые руки",
+      "price": "300",
+      "creator": {
+        "email": "123aa@mail.com",
+        "password": "$2a$10$yOzuxvTmz0smXyzicgtiq.sKrGAGiVHrWt7x5JMyL28BOA286LGe6",
+        "name": "жена вонву",
+        "posts": [],
+        "about": "я люблю вону",
+        "photo": "https://i.pinimg.com/564x/11/69/4c/11694c4d3d3c5f31497c58247e8429a1.jpg",
+        "favourite": [],
+        "id": 3
+      },
+      "category": "карта",
+      "choice": "регулярка",
+      "id": 10,
+      "comment": [
+        {
+          "id": "4bcbe569-df92-40d0-b9d8-6f82f999914d",
+          "text": "можно ваш тг?\n",
+          "creator": {
+            "email": "qazwsx@mail.com",
+            "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+            "name": "kkk",
+            "posts": [],
+            "about": "стэньте себентин для чистой кожи",
+            "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+            "favourite": [],
+            "id": 1
+          }
+        },
+        {
+          "id": "106489d5-a51e-447f-8a7b-f181369e6c8f",
+          "text": "пакуете в переплетенный картон?\n",
+          "creator": {
+            "email": "mail@mail.ru",
+            "name": "wwww12",
+            "posts": [],
+            "about": "я люблю тратить деньги на картон ",
+            "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+            "favourite": [
+              {
+                "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
+                "group": "iz*one",
+                "name": "ффф",
+                "description": "ффф",
+                "price": "111",
+                "creator": {
+                  "email": "qazwsx@mail.com",
+                  "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+                  "name": "kkk",
+                  "posts": [],
+                  "about": "обо мне...",
+                  "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+                  "favourite": [],
+                  "id": 1
+                },
+                "category": "карта",
+                "choice": "регулярка",
+                "id": 1
+              }
+            ],
+            "id": 2
+          }
+        }
+      ]
+    },
+    {
+      "image": "https://i.ebayimg.com/00/s/NzIwWDcyMA==/z/APAAAOSwRsZijZPH/$_57.JPG?set_id=880000500F",
+      "group": "seventeen",
+      "member": "",
+      "name": "caratbong 2017",
+      "description": "прямиком с концерта 2017 года. доставка по чеку. личная встреча новосибирск.",
+      "price": "3000",
+      "creator": {
+        "email": "mail@mail.ru",
+        "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+        "name": "svtLOVER",
+        "posts": [],
+        "about": "я люблю тратить деньги на картон ",
+        "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+        "favourite": [],
+        "id": 2,
+        "networks": "тг: @pinker1c"
+      },
+      "category": "лайтстик",
+      "choice": "",
+      "id": 11,
+      "comment": []
+    },
+    {
+      "image": "https://www.picclickimg.com/~FkAAOSwbhRj8R-2/The-Boyz-Hyunjae-The-Azit-Selfie-Trading-Card.webp",
+      "group": "the boyz",
+      "member": "хёнджэ",
+      "name": "хёнджэшкин азит 2022 ",
+      "description": "карточка хёнджэ, цена без дс",
+      "price": "400",
+      "creator": {
+        "email": "mail@mail.ru",
+        "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+        "name": "svtLOVER",
+        "posts": [],
+        "about": "я люблю тратить деньги на картон ",
+        "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+        "favourite": [],
+        "id": 2,
+        "networks": "тг: @pinker1c"
+      },
+      "category": "карта",
+      "choice": "",
+      "id": 12,
+      "comment": []
+    },
+    {
+      "image": "https://i.etsystatic.com/25836467/r/il/82d2a1/3847334754/il_fullxfull.3847334754_n33u.jpg",
+      "group": "seventeen",
+      "member": "джун",
+      "name": "джун",
+      "description": "мун джунхви очень хочет домой",
+      "price": "300",
+      "creator": {
+        "email": "qazwsx@mail.com",
+        "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+        "name": "kkk",
+        "posts": [],
+        "about": "стэньте себентин для чистой кожи",
+        "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+        "favourite": [],
+        "id": 1,
+        "networks": "тг: @itsumonaku"
+      },
+      "category": "карта",
+      "choice": "регулярка",
+      "id": 13,
+      "comment": [
+        {
+          "id": "2e02fe5e-a28f-4efb-aa09-93d93db496a1",
+          "text": "торг уместен?",
+          "creator": {
+            "email": "mail@mail.ru",
+            "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+            "name": "svtLOVER",
+            "posts": [],
+            "about": "я люблю тратить деньги на картон ",
+            "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+            "favourite": [
+              {
+                "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
+                "group": "iz*one",
+                "name": "ффф",
+                "description": "ффф",
+                "price": "111",
+                "creator": {
+                  "email": "qazwsx@mail.com",
+                  "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+                  "name": "kkk",
+                  "posts": [],
+                  "about": "обо мне...",
+                  "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+                  "favourite": [],
+                  "id": 1
+                },
+                "category": "карта",
+                "choice": "регулярка",
+                "id": 1
+              }
+            ],
+            "id": 2
+          },
+          "feedback": {}
+        },
+        {
+          "id": "575f80d9-99b2-4970-ad44-c01033ba64ba",
+          "text": "на бронь ставите?",
+          "creator": {
+            "email": "example@mail.ru",
+            "password": "$2a$10$A6SpINdq4Oece/YPfrOHNOrdUwmcgz2aLKmDqo3qEEg53zx2Q4Cuy",
+            "name": "NEWname",
+            "posts": [],
+            "about": "айзуан реюнион когда?",
+            "photo": "https://i.pinimg.com/564x/f9/86/3d/f9863ddfa754317b2f93011a20fd026f.jpg",
+            "favourite": [],
+            "networks": "тг: @KEV1NCATBOY",
+            "id": 4
+          },
+          "feedback": {}
+        },
+        {
+          "id": "37215961-6a51-4a71-ab2e-16c680b1231a",
+          "text": "мун джунхви дороже всех денег этого мира",
+          "creator": {
+            "email": "example@mail.ru",
+            "password": "$2a$10$A6SpINdq4Oece/YPfrOHNOrdUwmcgz2aLKmDqo3qEEg53zx2Q4Cuy",
+            "name": "NEWname",
+            "posts": [],
+            "about": "айзуан реюнион когда?",
+            "photo": "https://i.pinimg.com/564x/f9/86/3d/f9863ddfa754317b2f93011a20fd026f.jpg",
+            "favourite": [],
+            "networks": "тг: @KEV1NCATBOY",
+            "id": 4
+          },
+          "feedback": {
+            "id": "2e02fe5e-a28f-4efb-aa09-93d93db496a1",
+            "text": "торг уместен?",
+            "creator": {
+              "email": "mail@mail.ru",
+              "password": "$2a$10$1g60Ng2lg8az9UKGEEzXyOXI5rZyViLIqYBXVLEPKlZCjNVK7RQdS",
+              "name": "svtLOVER",
+              "posts": [],
+              "about": "я люблю тратить деньги на картон ",
+              "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+              "favourite": [
+                {
+                  "image": "https://media.karousell.com/media/photos/products/2022/1/27/the_boyz_hyunjae_maverick_id_c_1643280260_c7330a29_progressive.jpg",
+                  "group": "iz*one",
+                  "name": "ффф",
+                  "description": "ффф",
+                  "price": "111",
+                  "creator": {
+                    "email": "qazwsx@mail.com",
+                    "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+                    "name": "kkk",
+                    "posts": [],
+                    "about": "обо мне...",
+                    "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+                    "favourite": [],
+                    "id": 1
+                  },
+                  "category": "карта",
+                  "choice": "регулярка",
+                  "id": 1
+                }
+              ],
+              "id": 2
+            },
+            "feedback": {}
+          }
+        }
+      ]
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/BjoAAOSwx2xg95KA/s-l1600.jpg",
+      "group": "seventeen",
+      "member": "",
+      "name": "'Your Choice' фб",
+      "description": "цена без дс ",
+      "price": "500",
+      "creator": {
+        "email": "qazwsx@mail.com",
+        "password": "$2a$10$/epP5s501dslBZtkF60bSuxAj9RMC2fa6gNzJBqX68wIlXw.WSJSe",
+        "name": "kkk",
+        "posts": [],
+        "about": "стэньте себентин для чистой кожи",
+        "photo": "https://i.pinimg.com/236x/d8/56/8d/d8568d553ceeab993c5cb2cf1a6adfda.jpg",
+        "favourite": [],
+        "id": 1,
+        "networks": "тг: @itsumonaku"
+      },
+      "category": "альбом",
+      "choice": "регулярка",
+      "id": 14,
+      "comment": [
+        {
+          "id": "eebf8709-717a-4564-af76-d6cb19029131",
+          "text": "доставка по чеку?",
+          "creator": {
+            "email": "mail@mail.ru",
+            "name": "svtLOVER",
+            "posts": [],
+            "about": "я люблю тратить деньги на картон ",
+            "photo": "https://i.pinimg.com/236x/1c/37/f1/1c37f19579c8914d8405c156cd308c9e.jpg",
+            "favourite": [],
+            "id": 2,
+            "networks": "тг: @pinker1c"
+          },
+          "feedback": {}
+        }
+      ]
+    },
+    {
+      "image": "https://i.ebayimg.com/images/g/Uw4AAOSwTXVeT1JE/s-l1600.jpg",
+      "group": "iz*one",
+      "member": "чэён",
+      "name": "чэён блумайз ",
+      "description": "продам карту лиён эры блумайз. цена указана без дс.",
+      "price": "200",
+      "creator": {
+        "email": "example@mail.ru",
+        "password": "$2a$10$A6SpINdq4Oece/YPfrOHNOrdUwmcgz2aLKmDqo3qEEg53zx2Q4Cuy",
+        "name": "NEWname",
+        "posts": [],
+        "about": "айзуан реюнион когда?",
+        "photo": "https://i.pinimg.com/564x/f9/86/3d/f9863ddfa754317b2f93011a20fd026f.jpg",
+        "favourite": [],
+        "networks": "тг: @KEV1NCATBOY",
+        "id": 4
+      },
+      "category": "карта",
+      "choice": "регулярка",
+      "comment": [],
+      "id": 15
+    }
+  ]
+}

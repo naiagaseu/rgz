@@ -1,0 +1,140 @@
+.list{
+    display: flex;
+    column-gap: 12px;
+    margin-top: 3%;
+    flex-wrap: wrap;
+    width: 1020px;
+    margin-bottom: 30px;
+}
+
+.showCard
+{
+    margin-top: 10px;
+}
+
+.link
+{
+    text-decoration: none;
+}
+
+.rightCatalog
+{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 27px;
+}
+
+
+.allCatalogCard
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.leftCatalog
+{
+    display: flex;
+    flex-direction: column;
+    border: 0.5px solid #000;
+    height: fit-content;
+    width: 200px;
+    margin-top: 2%;
+    margin-left: 9%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    text-align: left;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+}
+
+label{
+    padding-bottom: 10px;
+    padding-right: 5px;
+    padding-left: 12px;
+}
+
+.catChoose{
+    margin-left: 8px;
+}
+
+.pageName
+{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 450;
+    margin-top: 1%;
+    font-size: 28px;
+    text-align: left;
+    margin-left: 9%;
+}
+
+.nameFilter
+{
+    font-size: 24px;
+    padding: 12px 0px 10px 3px;
+}
+
+.linkFromCat
+{
+    text-align: left;
+    margin-left: 9%;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    margin-top: 2%;
+    margin-bottom: 0%;
+}
+
+.nameGroup, .typeCard, .groupMember
+{
+    height: 32px;
+    width: auto;
+    margin-bottom: 10px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 1%;
+    font-size: 16px;
+}
+
+.rightCatalogTtems
+{
+    margin-top: 2%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 9%;
+
+}
+
+.filterSubmit, .filterCancel
+{
+    border: none;
+    background-color: #fff;
+    text-align: left;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    margin-top: -5%;
+    font-size: 14px;
+    cursor: pointer;
+    margin-bottom: 8%;
+}
+
+.filterSubmit:hover, .filterCancel:hover
+{
+    color: #574376 ;
+    background-color: #fff;
+    font-weight: 600;
+}
+
+.filterCancel
+{
+    margin-top: 10px;
+    font-size: 16px;
+}
